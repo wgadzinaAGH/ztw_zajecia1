@@ -7,3 +7,5 @@ publiczne repo na 1 zajecia ZTW
 
 # no i znowu ci dopisalem ~ Malaysia guy
 ## no i kolejna modyfikacja - prosze nie pobierz się automatycznie
+
+czemu nie działaaaa
