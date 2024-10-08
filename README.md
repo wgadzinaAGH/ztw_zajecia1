@@ -6,6 +6,7 @@ publiczne repo na 1 zajecia ZTW
 ### Dopisalem ci tekst hahahah
 
 # no i znowu ci dopisalem ~ Malaysia guy
-## no i kolejna modyfikacja - prosze nie pobierz się automatycznie
+## no i kolejna modyfikacja - prosze nie pobierz sie automatycznie
 
-czemu nie działaaaa
+<<<<<<< HEAD
+pls crash and conflict
