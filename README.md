@@ -3,3 +3,4 @@ publiczne repo na 1 zajecia ZTW
 
 
 ## jakas tresc randomowa 
+### Dopisalem ci tekst hahahah
